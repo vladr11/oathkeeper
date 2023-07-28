@@ -37,6 +37,7 @@ require (
 	github.com/ory/analytics-go/v5 v5.0.1
 	github.com/ory/fosite v0.44.0
 	github.com/ory/go-acc v0.2.9-0.20230103102148-6b1c9a70dbbe
+	github.com/ory/go-convenience v0.1.0
 	github.com/ory/gojsonschema v1.2.0
 	github.com/ory/graceful v0.1.1
 	github.com/ory/herodot v0.10.3-0.20230626083119-d7e5192f0d88
@@ -194,7 +195,6 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0 // indirect
 	github.com/openzipkin/zipkin-go v0.4.1 // indirect
 	github.com/ory/dockertest/v3 v3.9.1 // indirect
-	github.com/ory/go-convenience v0.1.0 // indirect
 	github.com/ory/gojsonreference v0.0.0-20190720135523-6b606c2d8ee8 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.9 // indirect

@@ -1,0 +1,6 @@
+include:
+  - project: "nooxit/ci-templates"
+    ref: "9.6.0"
+    file: "full-pipeline.yaml"
+
+image: public.ecr.aws/bitnami/golang:latest

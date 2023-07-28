@@ -71,6 +71,9 @@ const (
 
 	// unauthorized
 	AuthenticatorUnauthorizedIsEnabled Key = "authenticators.unauthorized.enabled"
+
+	// forward
+	AuthenticatorForwardIsEnabled Key = "authenticators.forward.enabled"
 )
 
 // Errors
